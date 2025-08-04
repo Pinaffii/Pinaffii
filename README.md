@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Lucas! 👋
 
-<!--
-**Pinaffii/Pinaffii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Civil Engineer transitioning into Web Development  
+📍 Currently working and living in **Dublin, Ireland** 🇮🇪  
+📚 Learning to code every day with a focus on **JavaScript** and **React**  
+🚀 Current course: [React - The Complete Guide (incl. Redux, Next.js & More)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmüller
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack (in progress)
+- HTML / CSS / JavaScript
+- React.js (in progress)
+- Git / GitHub
+- Node.js (basic)
+- Coming soon: TypeScript, Tailwind CSS, Firebase
+
+---
+
+## 📂 Projects (coming soon)
+- React To-Do App
+- Expense Tracker
+- Personal Portfolio Website
+
+---
+
+## 🌱 Goals
+- Build real-world React projects
+- Improve my full-stack development skills
+- Contribute to open-source projects
+- Get my first tech job in Ireland 🇮🇪
+
+---
+
+## 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui/)  
+[GitHub](https://github.com/Pinaffii)
