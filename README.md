@@ -32,5 +32,5 @@
 ---
 
 ## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui/)  
+[LinkedIn](https://www.linkedin.com/in/lucas-pinaffi-bistaffa-6b399a378/)  
 [GitHub](https://github.com/Pinaffii)
